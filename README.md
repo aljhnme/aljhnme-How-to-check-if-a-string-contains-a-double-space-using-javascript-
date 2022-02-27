@@ -1,0 +1,1 @@
+# aljhnme-How-to-check-if-a-string-contains-a-double-space-using-javascript-
