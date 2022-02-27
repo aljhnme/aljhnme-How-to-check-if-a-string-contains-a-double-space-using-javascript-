@@ -1,0 +1,14 @@
+<script type="text/javascript">
+
+  var text=prompt('Enter any Text');
+  var lenstr=text.length;
+
+  for(var i = 0 ; i < lenstr ; i ++)
+  {
+     if(text.slice(i , i + 2) === "  ")
+     {
+          alert("This text contains a double space");
+          break;
+     }
+  }
+</script>
